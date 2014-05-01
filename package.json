@@ -1,6 +1,6 @@
 {
   "name": "ziggy-help",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "!help for ziggy",
   "main": "index.js",
   "scripts": {
