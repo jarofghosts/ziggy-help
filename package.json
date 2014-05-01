@@ -1,0 +1,26 @@
+{
+  "name": "ziggy-help",
+  "version": "0.0.0",
+  "description": "!help for ziggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarofghosts/ziggy-help.git"
+  },
+  "keywords": [
+    "ziggy",
+    "help"
+  ],
+  "author": "jesse keane <me@jessekeane.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/ziggy-help/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/ziggy-help",
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}
